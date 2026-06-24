@@ -17,6 +17,27 @@ The goal is to:
 4. Handle impossible mazes separately.
 5. Compute a final password using the product of all valid path lengths modulo 1000000007.
 
+## Prerequisites
+
+Before running the project, make sure the following are installed:
+
+- Python 3.x
+- OpenCV
+
+Install OpenCV using:
+python -m pip install opencv-python numpy
+
+## Generating Maze Images
+
+This project requires maze images as input.
+
+1. Download the **Maze Maker** folder.
+2. Extract the contents.
+3. Open a terminal in the folder containing the executable.
+   Windows: .\MazeMaker 100
+5. Generate exactly 100 maze images:
+The generated maze images should be placed inside the mazes/ folder of this project.
+
 ## Approach
 
 ### Image Processing
@@ -43,6 +64,22 @@ project/
 - answers/  #generated solved answers
 - password.txt  #final password
 - runlog.txt   #execution log
+
+### Run the Program
+
+Open a terminal in the project folder and execute:
+python code.py
+
+### What the Program Does
+
+1. Reads all maze images from the mazes/ folder.
+2. Converts each maze image into a 40 × 40 grid.
+3. Detects walls and valid paths.
+4. Uses Breadth First Search (BFS) to find the shortest path.
+5. Saves solved maze images in the answers/ folder.
+6. Generates:
+   - password.txt
+   - runlog.txt
 
 ## Technologies Used
 
