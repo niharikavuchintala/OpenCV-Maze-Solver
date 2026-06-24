@@ -38,6 +38,12 @@ This project requires maze images as input.
 5. Generate exactly 100 maze images:
 The generated maze images should be placed inside the mazes/ folder of this project.
 
+## Smaple Images
+
+Access the images folder.
+To view a solved sample maze output, refer to solved maze.png
+To view an impossible maze output, refer to impossible maze.png
+
 ## Approach
 
 ### Image Processing
