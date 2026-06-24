@@ -1,0 +1,104 @@
+maze_01.png -> IMPOSSIBLE
+maze_02.png -> path length = 287
+maze_03.png -> IMPOSSIBLE
+maze_04.png -> path length = 375
+maze_05.png -> path length = 319
+maze_06.png -> path length = 311
+maze_07.png -> path length = 283
+maze_08.png -> path length = 315
+maze_09.png -> path length = 227
+maze_10.png -> path length = 243
+maze_100.png -> IMPOSSIBLE
+maze_11.png -> path length = 211
+maze_12.png -> path length = 239
+maze_13.png -> path length = 275
+maze_14.png -> path length = 259
+maze_15.png -> path length = 139
+maze_16.png -> path length = 295
+maze_17.png -> path length = 475
+maze_18.png -> path length = 251
+maze_19.png -> IMPOSSIBLE
+maze_20.png -> IMPOSSIBLE
+maze_21.png -> path length = 223
+maze_22.png -> path length = 203
+maze_23.png -> path length = 259
+maze_24.png -> IMPOSSIBLE
+maze_25.png -> path length = 283
+maze_26.png -> path length = 451
+maze_27.png -> path length = 235
+maze_28.png -> IMPOSSIBLE
+maze_29.png -> path length = 355
+maze_30.png -> IMPOSSIBLE
+maze_31.png -> IMPOSSIBLE
+maze_32.png -> path length = 491
+maze_33.png -> path length = 463
+maze_34.png -> path length = 455
+maze_35.png -> path length = 267
+maze_36.png -> IMPOSSIBLE
+maze_37.png -> path length = 211
+maze_38.png -> path length = 179
+maze_39.png -> IMPOSSIBLE
+maze_40.png -> path length = 231
+maze_41.png -> path length = 295
+maze_42.png -> IMPOSSIBLE
+maze_43.png -> path length = 351
+maze_44.png -> path length = 243
+maze_45.png -> path length = 275
+maze_46.png -> path length = 467
+maze_47.png -> IMPOSSIBLE
+maze_48.png -> path length = 427
+maze_49.png -> path length = 231
+maze_50.png -> path length = 383
+maze_51.png -> path length = 379
+maze_52.png -> path length = 215
+maze_53.png -> path length = 379
+maze_54.png -> path length = 227
+maze_55.png -> path length = 439
+maze_56.png -> path length = 231
+maze_57.png -> path length = 303
+maze_58.png -> path length = 299
+maze_59.png -> IMPOSSIBLE
+maze_60.png -> IMPOSSIBLE
+maze_61.png -> path length = 207
+maze_62.png -> path length = 227
+maze_63.png -> path length = 339
+maze_64.png -> IMPOSSIBLE
+maze_65.png -> path length = 455
+maze_66.png -> path length = 383
+maze_67.png -> path length = 231
+maze_68.png -> IMPOSSIBLE
+maze_69.png -> path length = 387
+maze_70.png -> IMPOSSIBLE
+maze_71.png -> path length = 371
+maze_72.png -> IMPOSSIBLE
+maze_73.png -> path length = 295
+maze_74.png -> IMPOSSIBLE
+maze_75.png -> path length = 423
+maze_76.png -> IMPOSSIBLE
+maze_77.png -> path length = 315
+maze_78.png -> path length = 491
+maze_79.png -> IMPOSSIBLE
+maze_80.png -> path length = 367
+maze_81.png -> path length = 335
+maze_82.png -> path length = 451
+maze_83.png -> path length = 283
+maze_84.png -> path length = 279
+maze_85.png -> path length = 251
+maze_86.png -> path length = 263
+maze_87.png -> path length = 499
+maze_88.png -> IMPOSSIBLE
+maze_89.png -> path length = 251
+maze_90.png -> path length = 411
+maze_91.png -> path length = 343
+maze_92.png -> IMPOSSIBLE
+maze_93.png -> path length = 327
+maze_94.png -> path length = 427
+maze_95.png -> path length = 255
+maze_96.png -> path length = 295
+maze_97.png -> path length = 227
+maze_98.png -> path length = 379
+maze_99.png -> path length = 323
+
+Valid mazes: 76
+Impossible mazes: 24
+Password: 590661360
