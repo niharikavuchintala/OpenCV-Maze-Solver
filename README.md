@@ -40,9 +40,9 @@ The generated maze images should be placed inside the mazes/ folder of this proj
 
 ## Smaple Images
 
-Access the images folder.
-To view a solved sample maze output, refer to solved maze.png
-To view an impossible maze output, refer to impossible maze.png
+-Access the images folder.
+-To view a solved sample maze output, refer to 'solved maze.png'
+-To view an impossible maze output, refer to 'impossible maze.png'
 
 ## Approach
 
@@ -58,7 +58,7 @@ To view an impossible maze output, refer to impossible maze.png
 
 ### Output Generation
 - Valid mazes:
-  - Shortest path highlighted in green.
+ - Shortest path highlighted in green.
 - Impossible mazes:
   - Generate a special output image.
 
